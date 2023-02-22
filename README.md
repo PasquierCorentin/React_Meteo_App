@@ -20,7 +20,7 @@ Elle permet de rechercher un lieu ou une ville, puis affiche les prévisions mé
 
 Si vous lancez ce projet pour la première fois, assurez-vous d'avoir installé nvm(node version manager).
 
-Si nvm n'est pas intallé, utilisez la commande suivante :
+Si nvm n'est pas intallé, utilisez la commande suivante :<br>
 `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
 Une fois nvm installé, utilisez `nvm i` , puis `nvm use` (pour utiliser la bonne version de Node)
 
@@ -30,5 +30,5 @@ Après avoir installé les dépendences, utilisez `npm run start` et rendez-vous
 
 ## Appels API
 
-Attention : L'api OpenWeather API utilise une clé API personnelle.
-Vous trouverez à la récine du projet un fichier `.env.example`, que vous devrez enregistrer sous le nom `.env` et dans laquelle il faudra coller la valeur de votre clé API (Vous pouvez obtenir une clé gratuitement sur le site d'[OpenWeather API](https://openweathermap.org/api)).
+Attention :<br>
+L'api OpenWeather API utilise une clé API personnelle. Vous trouverez à la récine du projet un fichier `.env.example`, que vous devrez enregistrer sous le nom `.env` et dans laquelle il faudra coller la valeur de votre clé API (Vous pouvez obtenir une clé gratuitement sur le site d'[OpenWeather API](https://openweathermap.org/api)).
