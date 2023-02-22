@@ -21,7 +21,7 @@ Elle permet de rechercher un lieu ou une ville, puis affiche les prévisions mé
 Si vous lancez ce projet pour la première fois, assurez-vous d'avoir installé nvm(node version manager).
 
 Si nvm n'est pas intallé, utilisez la commande suivante :<br>
-`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
+`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash` <br>
 Une fois nvm installé, utilisez `nvm i` , puis `nvm use` (pour utiliser la bonne version de Node)
 
 Une fois la bonne version de node activée, utilisez `npm i` pour installer les dépendences du projet.
