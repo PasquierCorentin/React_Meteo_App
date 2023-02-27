@@ -32,4 +32,4 @@ Après avoir installé les dépendences, utilisez `npm run start` et rendez-vous
 ## Appels API
 
 Attention :<br>
-L'api OpenWeather API utilise une clé API personnelle. Vous trouverez à la récine du projet un fichier `.env.example`, que vous devrez enregistrer sous le nom `.env` et dans lequel il faudra coller la valeur de votre clé API (Vous pouvez obtenir une clé gratuitement sur le site d'[OpenWeather API](https://openweathermap.org/api)).
+L'api OpenWeather API utilise une clé API personnelle. Vous trouverez à la racine du projet un fichier `.env.example`, que vous devrez enregistrer sous le nom `.env` et dans lequel il faudra coller la valeur de votre clé API (Vous pouvez obtenir une clé gratuitement sur le site d'[OpenWeather API](https://openweathermap.org/api)).
